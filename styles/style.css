@@ -386,6 +386,9 @@ footer {
 
 .png {
   height: 40px;
+  border-radius: 100px;/*redondea las imagenes */
+  
+
   /*imagenes de facebook etc*/
 }
 
